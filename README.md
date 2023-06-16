@@ -1,6 +1,6 @@
 # Orbit-Insertion
 
-Script that simulates a rocket fligh for orbit insertion.
+Script that simulates the flight of a 3-stage rocket for orbit insertion.
 
 * ```voo_insercao_orbita.m```: Main function. Declares structural and payload masses, propulsive parameters, aerodynamic and ambiental parameters, Earth model patrameters, and initial conditions. Uses the Rocket Equation to compute the required Delta V. Simulates and draws the trajectory.
 * ```aerodinamica_N_estagios.m```: Computes the drag force for each stage of a rocket of up to 3 stages.
