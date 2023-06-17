@@ -15,3 +15,7 @@ Script that simulates the flight of a 3-stage rocket for orbit insertion.
 * ```propulsao_N_estagios.m```: Computes the propulsive parameters as a function of time.
 * ```RvelPolar2RvelRet.m```: Converts velocity from the LVLH coordinate system to the ECI or ECEF coordinate systems.
 * ```Vrel2Vine.m```: Converts velocity, elevation and azimuth values from relative velocity to inertial velocity.
+
+![untitled](https://github.com/rewenila/orbit-insertion/assets/32466162/db315587-0cb0-42ab-9faa-50660d0246ab)
+![untitled2](https://github.com/rewenila/orbit-insertion/assets/32466162/88b5584e-2b1f-41b9-985f-cc75dd9de528)
+
